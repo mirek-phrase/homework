@@ -1,0 +1,5 @@
+node_modules
+/prisma/dev.db
+/src/entries/entries.json
+package-lock.json
+.DS_Store
